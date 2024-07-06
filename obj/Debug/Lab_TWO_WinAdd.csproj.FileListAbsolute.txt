@@ -1,0 +1,13 @@
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\bin\Debug\Lab_TWO_WinAdd.exe.config
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\bin\Debug\Lab_TWO_WinAdd.exe
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\bin\Debug\Lab_TWO_WinAdd.pdb
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.csproj.AssemblyReference.cache
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.FormGraphics.resources
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.Properties.Resources.resources
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.csproj.GenerateResource.cache
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.csproj.CoreCompileInputs.cache
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.exe
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.pdb
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.FormChooseBackgroud.resources
+C:\Users\banil\source\repos\Lab_TWO_WinAdd\Lab_TWO_WinAdd\obj\Debug\Lab_TWO_WinAdd.FormEntedBoards.resources
